@@ -27,9 +27,9 @@ It helps users manage daily tasks efficiently with progress tracking, filtering,
 - **Mock API:** Async simulation using Promises
 
 ---
-
 ## 📁 Project Structure
-TASK-MANAGEMENT-DASHBOARD
+
+TASK-MANAGEMENT-DASHBOARD/
 ├── public/
 │   └── logo.png
 ├── src/
@@ -55,28 +55,15 @@ TASK-MANAGEMENT-DASHBOARD
 ├── tailwind.config.js
 ├── vite.config.js
 └── README.md
-
 ## ⚙️ Setup & Run Instructions
 
+### 1️⃣ Clone the repository
 ``bash
-# 1️⃣ Clone the repository
-git clone https://github.com/your-username/task-management-dashboard.git
+git clone https://github.com/shashwat-vikram-singh/task-management-dashboard
 cd task-management-dashboard
 
-# 2️⃣ Install dependencies
+2️⃣ Install dependencies
 npm install
-
-# 3️⃣ Start the development server
-npm run dev
-
-# Application will be available at:
-# http://localhost:5173
-
-# 4️⃣ Build for production
-npm run build
-
-# 5️⃣ Preview production build
-npm run preview
 
 🧠 State Management Overview
 	•	Redux Toolkit is used for global state management
@@ -101,3 +88,4 @@ npm run preview
 
 Shashwat Vikram Singh
 Frontend Developer | React | Redux Toolkit | Tailwind CSS
+
